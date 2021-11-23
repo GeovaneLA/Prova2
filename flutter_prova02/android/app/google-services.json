@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911610379192",
+    "project_id": "prova-2-flutter",
+    "storage_bucket": "prova-2-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911610379192:android:0e96b42202688242376d4d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_prova02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911610379192-lmtmv4s6ep089q4rk7afo1jjhl97gqpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLque5YtIB3CfJnYv2mh4pVCEbl2XatA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911610379192-lmtmv4s6ep089q4rk7afo1jjhl97gqpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
